@@ -3,7 +3,6 @@
 # @Author wly
 # @name PCA.py
 
-# 加菊花没事吧
 import numpy as np
 
 class PCA:
